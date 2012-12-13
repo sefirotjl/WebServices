@@ -161,3 +161,10 @@ pip-log.txt
 
 # Mac crap
 .DS_Store
+/WSJson/nbproject/private/
+/restdemo/nbproject/private/
+/CalcJAXRS/nbproject/private/
+/HelloWorldApplication/nbproject/private/
+/test/nbproject/private/
+/WSAgentes/nbproject/private/
+/CodenameOne/nbproject/private/

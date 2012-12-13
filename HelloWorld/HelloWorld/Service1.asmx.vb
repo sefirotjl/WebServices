@@ -15,4 +15,9 @@ Public Class Service1
        Return "Hello World"
     End Function
 
+    <WebMethod()> _
+    Public Function Register(id As Int16, data1 As String) As String
+        Return "ID.CUSTOMER"
+    End Function
+
 End Class

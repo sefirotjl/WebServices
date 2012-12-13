@@ -84,6 +84,7 @@
   <ItemGroup>
     <Compile Include="Service1.asmx.vb">
       <DependentUpon>Service1.asmx</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
